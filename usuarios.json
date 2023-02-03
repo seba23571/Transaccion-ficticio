@@ -1,0 +1,60 @@
+[
+  /*   nota el primer objeto es el usuario que envia los fondos */
+
+  {
+    "id": 1,
+    "nombre": "SebastianTesting",
+    "apellido": "EstebanTesting",
+    "mail": "facturaciontimbradomx@gmail.com",
+    "password": "1234",
+    "telefono": "555-555-5555",
+    "roles": "cliente"
+  },
+
+  {
+    "id": 2,
+    "nombre": "Sebastian",
+    "apellido": "Esteban",
+    "mail": "sebastian.esteban266@gmail.com",
+    "password": "12342",
+    "telefono": "555-555-5555",
+    "roles": "cliente"
+  },
+
+  {
+    "id": 3,
+    "nombre": "Atlaí",
+    "apellido": "Henríquez",
+    "mail": "Atlaí@example.com",
+    "password": "password3",
+    "telefono": "555-555-5556",
+    "roles": "cliente"
+  },
+  {
+    "id": 4,
+    "nombre": "Alberto",
+    "apellido": "Torres",
+    "mail": "Alberto@example.com",
+    "password": "password4",
+    "telefono": "555-555-5557",
+    "roles": "cliente"
+  },
+  {
+    "id": 5,
+    "nombre": "Oscar",
+    "apellido": "Lemus",
+    "mail": "Oscar@example.com",
+    "password": "password5",
+    "telefono": "555-555-5558",
+    "roles": "admin"
+  },
+  {
+    "id": 6,
+    "nombre": "Mario",
+    "apellido": "Coach",
+    "mail": "Oscar@example.com",
+    "password": "password6",
+    "telefono": "555-555-5558",
+    "roles": "admin"
+  }
+]
